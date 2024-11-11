@@ -1,14 +1,15 @@
-package TH1;
+package BT1;
 
-public class Circle extends Shape{
+public class Circle {
     private double radius = 1.0;
+    private String color;
 
     public Circle() {
     }
 
-    public Circle(String color, boolean filled, double radius) {
-        super(color, filled);
+    public Circle(double radius, String color) {
         this.radius = radius;
+        this.color = color;
     }
 
     public double getRadius() {
@@ -19,18 +20,19 @@ public class Circle extends Shape{
         this.radius = radius;
     }
 
-    public double getArea() {
-        return Math.PI * radius * radius;
+    public String getColor() {
+        return color;
     }
 
-    public double getPerimeter() {
-        return 2 * Math.PI * radius;
+    public void setColor(String color) {
+        this.color = color;
     }
 
     @Override
     public String toString() {
         return "Circle{" +
                 "radius=" + radius +
-                "} " + super.toString();
+                ", color='" + color + '\'' +
+                '}';
     }
 }
