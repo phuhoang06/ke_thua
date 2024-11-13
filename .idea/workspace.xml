@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f3f953d8-9373-45b2-9530-a7fa460078b2" name="Changes" comment="update">
-      <change afterPath="$PROJECT_DIR$/src/BT3/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BT1/ComparableCircle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BT1/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BT1/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BT1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BT1/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +37,9 @@
     &quot;accountId&quot;: &quot;3a3b17a7-148e-4b43-87d1-af5e45158c95&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -45,6 +51,7 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Application.BT1.Main.executor&quot;: &quot;Run&quot;,
     &quot;Application.Main.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
@@ -57,7 +64,20 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.BT1.Main">
+    <configuration name="BT1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BT1.Main" />
+      <module name="ke_thua" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BT1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TH1.Main" />
       <module name="ke_thua" />
@@ -73,6 +93,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BT1.Main" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -97,7 +118,12 @@
       <workItem from="1731323647120" duration="6000" />
       <workItem from="1731324249370" duration="195000" />
       <workItem from="1731332355345" duration="2420000" />
-      <workItem from="1731373387112" duration="726000" />
+      <workItem from="1731373387112" duration="1376000" />
+      <workItem from="1731381339678" duration="25000" />
+      <workItem from="1731393520388" duration="3433000" />
+      <workItem from="1731403757801" duration="7000" />
+      <workItem from="1731461408731" duration="1554000" />
+      <workItem from="1731479896822" duration="716000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <option name="closed" value="true" />
@@ -115,7 +141,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731373901890</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="update">
+      <option name="closed" value="true" />
+      <created>1731374157150</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1731374157150</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

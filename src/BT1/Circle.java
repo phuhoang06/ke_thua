@@ -1,10 +1,11 @@
 package BT1;
 
 public class Circle {
-    private double radius = 1.0;
+    public double radius = 1.0;
     private String color;
 
     public Circle() {
+
     }
 
     public Circle(double radius, String color) {
